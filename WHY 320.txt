@@ -1,0 +1,4 @@
+"Why are you interested in taking CMSC320?" 
+
+Answer - I am interested in taking this class because data science is basically the brother to computer science since
+computers work with a lot of data. This interests me because i would like to know how to manipulate and intereprete said data.
